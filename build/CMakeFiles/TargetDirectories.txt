@@ -1,0 +1,3 @@
+E:/projects/ci_helloy_world/cpprus2018ci/build/CMakeFiles/hello.dir
+E:/projects/ci_helloy_world/cpprus2018ci/build/CMakeFiles/ALL_BUILD.dir
+E:/projects/ci_helloy_world/cpprus2018ci/build/CMakeFiles/ZERO_CHECK.dir
