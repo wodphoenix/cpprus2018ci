@@ -12,4 +12,4 @@ TEST(hello, hello) {
 	greet(ss);
 
 	ASSERT_EQ("Hello, world", ss.str());
-}
+} 
