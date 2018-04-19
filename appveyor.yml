@@ -2,7 +2,6 @@ build:
 
 install:
   - set PATH=%PATH%;%PYTHON%/Scripts/
-  - pip install --upgrade pip
   - pip.exe install conan
   - mkdir build && cd build
   - conan remote add conan.io https://server.conan.io
